@@ -1,0 +1,9 @@
+{
+  "appname": "OsdInv",
+  "httpport": "1340",
+  "runmode": "dev",
+  "sqluser": "db2admin",
+  "sqlpass": "Maddox01",
+  "sqldb": "@/test",
+  "sessionname": "bdrSession"
+}
